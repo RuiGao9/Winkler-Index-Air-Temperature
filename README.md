@@ -1,3 +1,5 @@
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
+ ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Winkler-Index-Air-Temperature)
 # Winkler-Index-Air-Temperature
 Calculating the Winkler Index based on the hourly recorded air temperature. The title above is the repository title, and the following is the title intended for citation and referencing purposes to support our reserach.
 
@@ -21,3 +23,25 @@ This repository computes the **Winkler Index** directly from **hourly air temper
 
 ## Citation
 If you also want to use this repository in your work, please cite it using the following DOI:
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
+
+ **BibTeX:**
+```bibtex
+@misc{gao2025apogee,
+  author       = {Rui Gao, Alfonso Torres-Rua, Mohammad Safeeq, and Joshua H. Viers},
+  title        = {A Python Tool for Winkler Index Calcualtion based on Hourly Air Temperature Records},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18305013},
+  url          = {https://doi.org/10.5281/zenodo.18305013}
+}
+```
+
+## Repository update information
+- **Creation date:** 2026-01-19
+- **Last update:** 2026-01-19
+
+## Contact information if issues were found:
+Rui Gao<br>
+Rui.Ray.Gao@gmail.com<br>
+RuiGao@UCMerced.edu
