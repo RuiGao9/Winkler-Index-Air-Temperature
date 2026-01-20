@@ -27,7 +27,7 @@ If you also want to use this repository in your work, please cite it using the f
 
  **BibTeX:**
 ```bibtex
-@misc{gao2025apogee,
+@misc{gao2026windex,
   author       = {Rui Gao, Alfonso Torres-Rua, Mohammad Safeeq, and Joshua H. Viers},
   title        = {A Python Tool for Winkler Index Calcualtion based on Hourly Air Temperature Records},
   year         = {2026},
