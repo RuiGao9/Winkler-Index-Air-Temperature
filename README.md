@@ -19,7 +19,8 @@ Calculating the Winkler Index based on the hourly recorded air temperature. The 
     - Ta<br>
 
 ## Brief introduction of this repository
-This repository computes the **Winkler Index** directly from **hourly air temperature data** collected by an **eddy-covariance flux tower**. It also provides an optional visualization module to plot **daily maximum, minimum, and mean air temperature** time series.
+This repository computes the **Winkler Index** directly from **hourly air temperature data** collected by an **eddy-covariance flux tower**. It also provides an optional visualization module to plot **daily maximum, minimum, and mean air temperature** time series.<br>
+Please make the necessary adjustments in the `main.ipynb` file to obtain the final results for your case.
 
 ## Citation
 If you also want to use this repository in your work, please cite it using the following DOI:<br>
